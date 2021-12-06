@@ -122,7 +122,7 @@
                             <div class="col-md-6">
                                 <div class="business_item xs-m-top-30">
                                 	<div style="padding:10px;">
-                                        <h2 class="text-uppercase"><strong>PT LEO PUMP INDONESIA</strong></h2>
+                                        <h2 class="text-uppercase"><strong>PT LEO PUMP INDONESIAS</strong></h2>
                                         <p class="m-top-20">
                                         <?php echo word_limiter($data_about[0]->desc,80);?>
                                         </p>
