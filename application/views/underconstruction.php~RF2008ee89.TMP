@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="<?php echo base_url();?>appinclude/images/front/icon.png" />
+<title>.:Leopumps Indonesia|| Underconstruction Page :.</title>
+</head>
+<style type="text/css">
+body{
+	background:url(<?php echo base_url();?>assets/images/underconstruction.gif) no-repeat;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	margin:auto 0;
+	color:#333;
+	height:100%;
+}
+img{
+	border:none;
+	vertical-align:middle;
+}
+a{
+	text-decoration:none;
+	color:#333;
+}
+a:hover{
+	color:#F00;
+}
+.shadow{
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	 border-radius:5px;
+	 -moz-box-shadow: 1px 2px 4px #999; /* Firefox */
+	 -webkit-box-shadow: 1px 2px 4px #999; /* Safari/Chrome */
+	 box-shadow: 1px 2px 4px #999; /* Opera and other CSS3 supporting browsers */
+	 -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#999999')";/* IE 8 */
+	 filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#999999');/* IE 5.5 - 7 */ 
+}
+
+</style>
+<body>
+<div align="center">
+<a href="http://www.jetswm.com"><img style="margin-top:50px;" src="<?php echo base_url();?>assets/images/logo-top.png" height="80" /></a>
+</div>
+<div style="margin:0 auto; text-align:center; margin-top:50px; width:800px; color:#333; background:rgba(255,255,255,0.2); padding:50px 20px; height:250px;" class="shadow">
+	<font style="font-size:24px; font-weight:bold;">Welcome to Leopumps Indonesia</font>
+    <p>&nbsp;</p>
+    <p style="font-size:14px;">our website still underconstruction and will be launch soon.<br />
+    Please come back when our website has been operating, we also share ideas and knowledge with the community</p>
+    <p>&nbsp;</p>
+    <font style="font-size:16px; font-weight:bold; color:#007D93">Coming soon July, 2017</font>
+    <p>&nbsp;</p>
+    <div align="center"><img src="<?php echo base_url();?>assets/images/underc.jpg" height="90" /></div>
+</div>
+<div style="height:50px; width:100%; padding-top:30px; position:absolute; bottom:0; text-align:center;">
+	Copyright © 2011 Jetswm.com, All Rights Reserved. Design & developed by <a href="http://webhostku.asia/" target="_blank">webhostku.asia</a>
+</div>
+</body>
+</html>

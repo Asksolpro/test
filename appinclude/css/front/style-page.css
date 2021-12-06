@@ -1,0 +1,70 @@
+
+
+a {text-decoration: none; }
+a:visited {text-decoration: none; }
+a:focus { outline: thin dotted; }
+
+/* Improve readability when focused and hovered in all browsers: people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active { outline: 0; }
+
+
+/* Content */
+
+div#contents { float: left; width: 100px; }
+div#contents h2 { font-size: 21px; margin-bottom: 30px; }
+div#contents h3 { margin: 50px 0px 10px 0px; }
+div#contents p { line-height:1.5; }
+div#contents p a { color: white; background: #D4EE5E; font-weight: bold; }
+div#contents p a:hover { background: black; }
+div#contents p + div { margin-top: 50px; }
+div#contents h3 span { background-color: #F4FAD2; color: #5C826D; padding: 2px 3px; margin-left: 10px; font-weight: normal; }
+
+/* Content -> Code */
+
+div#contents div.codeBlocks { margin: 20px 0 35px; }
+
+div#contents pre { float: left; margin-right: 10px; cursor: pointer; }
+div#contents pre:before { content: attr(class); padding: 2px 3px; color: white; }
+
+div#contents pre.html { background: #F0F2EB; border-bottom: 1px solid #D7D9D3; }
+div#contents pre.html:before { background: #D7D9D3; }
+
+div#contents pre.javascript { background: #F4FAD2; border-bottom: 1px solid #DBE0BC; }
+div#contents pre.javascript:before { background: #DBE0BC; }
+
+div#contents pre.css { background: #E1EDB9; border-bottom: 1px solid #CAD5A6; }
+div#contents pre.css:before { background: #CAD5A6; }
+
+div#contents pre.collapse { position: relative; padding:2% 3%; width:94%; }
+div#contents pre.collapse:before { position: absolute; right: 0; top: 0; }
+
+div#contents pre code { display: none; background: none; font: 11px/16px "Courier New", Courier, monospace; }
+div#contents pre.collapse code { display:block; }
+
+/* Content -> Unordered Lists */
+
+div#contents ul#itemContainer { list-style: none; padding:0; margin: 20px 0;  }
+div#contents ul#itemContainer li { display: inline-block; margin: 5px; zoom: 1; *display:inline; }
+div#contents ul#itemContainer ll li img { vertical-align: bottom; width: 125px; height: 125px; }
+
+/* Content -> index */
+
+div#contents.index pre { float:none; cursor:default; }
+div#contents.index pre code { display:block; }
+div#contents.index h2 { margin-top: 55px; }
+div#contents.index dl dt,
+div#contents.index dl dd { float: left; margin-top: 10px; }
+div#contents.index dl dt { clear: left; width: 70px; font-style: italic; }
+div#contents.index dl dd { width: 450px; }
+div#contents.index i + p { margin-top: 5px; }
+
+/* Content -> documentation */
+
+div#contents.documentation h2 { margin-top: 55px; }
+div#contents.documentation dl dt,
+div#contents.documentation dl dd { float: left; margin-top: 10px; }
+div#contents.documentation dl dt { clear: left; width: 70px; font-style: italic; }
+div#contents.documentation dl dd { width: 450px; }
+div#contents.documentation i + p { margin-top: 5px; }
+
+

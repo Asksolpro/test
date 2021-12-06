@@ -1,0 +1,13 @@
+[21-Jun-2017 11:16:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/leox7618/public_html/index.php on line 10
+[21-Jun-2017 11:16:08 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/leox7618/public_html/index.php on line 10
+[21-Jun-2017 11:16:28 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/leox7618/public_html/index.php on line 10
+[25-Jul-2017 11:36:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/leox7618/public_html/application/views/front/master/header.php on line 152
+[25-Jul-2017 11:36:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/leox7618/public_html/application/views/front/master/header.php on line 152
+[25-Jul-2017 11:36:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/leox7618/public_html/application/views/front/master/header.php on line 152
+[15-Aug-2017 11:32:20 Asia/Jakarta] PHP Fatal error:  Call to a member function create_links() on null in /home/leox7618/public_html/application/views/admin/about/main.php on line 99
+[15-Aug-2017 11:34:21 Asia/Jakarta] PHP Fatal error:  Call to a member function create_links() on null in /home/leox7618/public_html/application/views/admin/about/main.php on line 86
+[15-Aug-2017 11:34:24 Asia/Jakarta] PHP Fatal error:  Call to a member function create_links() on null in /home/leox7618/public_html/application/views/admin/about/main.php on line 86
+[15-Aug-2017 11:48:07 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/leox7618/public_html/application/views/admin/about/main.php on line 60
+[15-Aug-2017 11:48:13 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/leox7618/public_html/application/views/admin/about/main.php on line 60
+[15-Aug-2017 13:55:32 Asia/Jakarta] PHP Fatal error:  Cannot redeclare About::index() in /home/leox7618/public_html/application/controllers/about.php on line 25
+[15-Aug-2017 13:55:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare About::index() in /home/leox7618/public_html/application/controllers/about.php on line 25
